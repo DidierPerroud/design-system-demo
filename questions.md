@@ -31,4 +31,5 @@ Input de recherche
 Palette pour thème sombre
 
 ### Sources :
-* https://www.figma.com/fr-fr/blog/design-systems-101-what-is-a-design-system/
+* https://www.figma.com/fr-fr/blog/design-systems-101-what-is-a-design-system
+* https://blog.hubspot.fr/website/design-system
