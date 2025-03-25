@@ -1,0 +1,15 @@
+.link {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+
+.link-dark {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(7, 109, 122);
+}
+
+.link-default {
+    font-style: italic;
+    color: rgb(58, 155, 168);
+}

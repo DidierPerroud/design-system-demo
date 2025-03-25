@@ -1,0 +1,12 @@
+.title-large {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(53, 53, 53);
+    font-size: xx-large;
+}
+
+.title-medium {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(104, 104, 104);
+    font-size: x-large;
+    font-style: italic;
+}
